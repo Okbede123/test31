@@ -16,8 +16,6 @@ public class BaiTapLuyen {
         so1.result(test);
 
 
-
-
     }
 
     public void result(ArrayList  test){
